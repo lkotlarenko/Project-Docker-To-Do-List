@@ -1,0 +1,16 @@
+ignore_files:
+  - jest.config.js
+  - package*.json
+  - __tests__/
+  - docker/todo-app/back-end/src
+  - docker/todo-app/back-end/node_modules.tar.gz
+  - docker/todo-app/back-end/package*.json
+  - docker/todo-app/front-end/public/
+  - docker/todo-app/front-end/src/
+  - docker/todo-app/front-end/.env
+  - docker/todo-app/front-end/package*.json
+  - docker/todo-app/front-end/node_modules.tar.gz
+  - docker/todo-app/tests/e2e/
+  - docker/todo-app/tests/jest.config.js
+  - docker/todo-app/tests/package*.json
+  - docker/todo-app/tests/node_modules.tar.gz

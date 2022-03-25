@@ -1,0 +1,8 @@
+.item-add {
+  display: flex;
+  margin: 10px;
+}
+
+.item-add div {
+  margin: 5px;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "sd-0x-project-docker-todo-list",
+  "version": "1.0.0",
+  "description": "Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --detectOpenHandles --forceExit --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betrybe/sd-0x-project-docker-todo-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/betrybe/sd-0x-project-docker-todo-list/issues"
+  },
+  "homepage": "https://github.com/betrybe/sd-0x-project-docker-todo-list#readme",
+  "devDependencies": {
+    "jest": "27.2.3",
+    "uuid": "8.3.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Teste de saúde da aplicação Todo List",
+  "author": "Trybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --detectOpenHandles --forceExit"
+  },
+  "devDependencies": {
+    "jest": "27.2.5",
+    "puppeteer-core": "10.4.0"
+  }
+}

@@ -1,0 +1,20 @@
+.item-row {
+  background-color: #2FC18C;
+  color: #023031;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.item-row > div {
+  margin: 5px;
+}
+
+.item-row-desc {
+  flex-grow: 1;
+}
+
+.item-row-desc-check {
+  text-decoration: line-through;
+}
