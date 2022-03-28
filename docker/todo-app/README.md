@@ -134,7 +134,7 @@ todo-app/
 ###### Utilizando o aplicativo de testes
 
 - ⚠️ Essa aplicação só funciona **se associada a uma rede Docker**;
-- Acesse a pasta `./todo-app/front-end`;
+- Acesse a pasta `./todo-app/tests`;
 - Instalar a aplicação utilizando o comando `npm install`;
 - O processo não deve retornar erros. `Warns` *(Avisos)* não impedem seu funcionamento;
 - Rodar a aplicação com `npm test`;
